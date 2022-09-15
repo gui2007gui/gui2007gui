@@ -1,7 +1,7 @@
 #SOBRE MIM
 -
 -  👋 oi, eu sou @gui2007gui
-- 👀 Estou interessado em educação
+- 👀 Estou interessado em aprender
 - 🌱 atualmente estou estudando Pensamento Computanacional
 - 💞️ Estou procurando colaborar no SEED
 - 📫 Como me contatar guilherme.poncheki@escola.pr.gov.br
